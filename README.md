@@ -1,4 +1,4 @@
-# Bianary-Classification-Model
+# Binary-Classification-Model
 
 
  - Using input data from Kaggle DataSet:  https://www.kaggle.com/giripujar/hr-analytics
